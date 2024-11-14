@@ -40,3 +40,7 @@ z : 5
 ## Requirements
 
 - **C++17 or later** is recommended for compatibility.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
